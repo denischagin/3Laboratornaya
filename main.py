@@ -1,14 +1,9 @@
-def inputs():
-      while True:
-        x = int(input('Введите натуральное число '))
-        if x > 0:
-            break
-        print('Что непонятного в слове "НАТУРАЛЬНОЕ"???')
-    return x
+def input():
+  #Евгений
  
 
-def x2():
-  #Саня
+def x2(х):
+ return collatz(n//2)
 
   
 def x3_1():
