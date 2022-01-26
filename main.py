@@ -3,7 +3,7 @@ def input():
  
 
 def x2(х):
- return collatz(n//2)
+ return collatz(x//2)
 
   
 def x3_1():
