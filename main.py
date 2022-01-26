@@ -7,7 +7,7 @@ def x2(х):
 
   
 def x3_1():
-  #Миша
+  return collatz(n * 3 +1)
 
   
 def  collatz():
