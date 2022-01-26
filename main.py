@@ -1,5 +1,10 @@
-def input():
-  #Евгений
+def inputs():
+      while True:
+        x = int(input('Введите натуральное число '))
+        if x > 0:
+            break
+        print('Что непонятного в слове "НАТУРАЛЬНОЕ"???')
+    return x
  
 
 def x2():
